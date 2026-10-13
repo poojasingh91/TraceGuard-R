@@ -1,0 +1,5 @@
+condition,events_remaining,auth_detection,large_transfer_detection,cross_source_detection,complete_chain_detected,total_alice_alerts
+full_evidence,98,True,True,True,True,4
+without_authentication,64,False,True,False,False,1
+without_network,66,True,False,False,False,1
+without_system,66,True,True,False,False,2
